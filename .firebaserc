@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "rws-app-97672",
+    "dev": "rws-app-97672",
+    "prod": "rws-app-97672"
+  }
+}
